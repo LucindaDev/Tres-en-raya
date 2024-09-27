@@ -1,6 +1,6 @@
 import './index.css'
 import { useState } from 'react'
-import confetti from "canvas-confetti"
+import confetti from 'canvas-confetti'
 
 import { Square } from './components/Square'
 
